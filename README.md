@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportunities in the data analyst fields, primarily in the sports sector and healthcare fields.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonleo0602&theme=tokyonight&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonleo0602&theme=tokyonight&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonleo0602)](https://github.com/anuraghazra/github-readme-stats)
 
