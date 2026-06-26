@@ -1,6 +1,8 @@
 ## Hi there 👋
 Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportunities in the data analyst fields, primarily in the sports sector and healthcare fields.
 
+![Your GitHub Stats](https://vercel.app)
+
 **TECH STACK**
 Python, R, SQL, Tableau
 
