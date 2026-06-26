@@ -4,8 +4,14 @@ Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportu
 
 
 **TECH STACK**
-Python, R, SQL, Tableau
 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-538A9C?logo=Tableau&logoColor=white&style=for-the-badge" />
+</p>
+Tableau
 In Progress: PowerBI
 
 
