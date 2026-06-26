@@ -3,6 +3,9 @@ Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonleo0602&theme=tokyonight&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonleo0602)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 **TECH STACK**
 Python, R, SQL, Tableau
