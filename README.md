@@ -1,6 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportunities in the data analyst fields, primarily in the sports sector and healthcare fields.
-
+Welcome to my GitHub! Here is where I update the stuff I am learning to break into the data analytics space. Pinned below are some of the projects showcase my skills best.
 
 
 **TECH STACK**
@@ -11,10 +10,13 @@ Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportu
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-538A9C?logo=Tableau&logoColor=white&style=for-the-badge" />
 </p>
-Tableau
-In Progress: PowerBI
+
+In Progress: PowerBI, Data Mining
 
 
+
+
+### SAMPLE STUFF FOR ME TO READ
 **jasonleo0602/jasonleo0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
