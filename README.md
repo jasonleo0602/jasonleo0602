@@ -1,6 +1,12 @@
 ## Hi there 👋
+Welcome to my GitHub! I primarily code in Python and R and I'm exploring opportunities in the data analyst fields, primarily in the sports sector and healthcare fields.
 
-<!--
+**TECH STACK**
+Python, R, SQL, Tableau
+
+In Progress: PowerBI
+
+
 **jasonleo0602/jasonleo0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
