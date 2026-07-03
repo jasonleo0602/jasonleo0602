@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub! Here is where I update the stuff I am learning to break into the data analytics space. Pinned below are some of the projects showcase my skills best.
+Welcome to my GitHub! Here is my data analyst portfolio as well as some of my coding adventures. Pinned below are some of the projects showcase my skills best.
 
 
 **TECH STACK**
@@ -11,7 +11,9 @@ Welcome to my GitHub! Here is where I update the stuff I am learning to break in
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-538A9C?logo=Tableau&logoColor=white&style=for-the-badge" />
 </p>
 
-In Progress: PowerBI, Data Mining
+In Progress: PowerBI, Data Scraping
+
+## Course Work
 
 
 ## Work In Progress Stats
