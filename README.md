@@ -14,9 +14,29 @@ Welcome to my GitHub! Here is my data analyst portfolio as well as some of my co
 In Progress: PowerBI, Data Scraping
 
 ## Course Work
+ISYE 6414 - Regression Analysis (Spring 2026 - A)
 
+ISYE 7406 - Data Mining & Statistical Learning (Spring 2026 - A)
+
+MGT 6203 - Data Analytics Business (Fall 2025 - A)
+
+ISYE 6650 - Probabilistic Models (Fall 2025 - A)
+
+CSE 6242 - Data & Visual Analytics (Spring 2025 - A)
+
+MGT 8803 - Special Topics: Business Fundamentals for Analytics (Spring 2025 - B)
+
+ISYE 6501 - Intro Analytics Modeling (Fall 2024 - B)
+
+CSE 6040 - Computing for Data Analytics (Fall 2024 - B)
+
+Note: School does floor functioning for grades so A- does not exist. Also, I was adjusting from being a computer engineering undergrad and had to learn R, Python Pandas, and SQL.
 
 ## Work In Progress Stats
+
+Nothing to see here yet. Stay tuned!
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonleo0602&theme=tokyonight&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonleo0602)](https://github.com/anuraghazra/github-readme-stats)
+--!>
