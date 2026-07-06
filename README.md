@@ -30,7 +30,7 @@ ISYE 6501 - Intro Analytics Modeling (Fall 2024 - B)
 
 CSE 6040 - Computing for Data Analytics (Fall 2024 - B)
 
-Note: School does floor functioning for grades so A- does not exist. Also, I was adjusting from being a computer engineering undergrad and had to learn R, Python Pandas, and SQL.
+Note: My school only does floor function grading.
 
 ## Work In Progress Stats
 
