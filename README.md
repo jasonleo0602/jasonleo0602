@@ -12,8 +12,6 @@ Welcome to my GitHub! Here is my data analyst portfolio as well as some of my co
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-538A9C?logo=Tableau&logoColor=white&style=for-the-badge" />
 </p>
 
-In Progress: PowerBI, Data Scraping
-
 ## Course Work
 ISYE 6414 - Regression Analysis (Spring 2026 - A)
 
