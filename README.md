@@ -8,6 +8,7 @@ Welcome to my GitHub! Here is my data analyst portfolio as well as some of my co
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=PowerBI&logoColor=white&style=for-the-badge" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-538A9C?logo=Tableau&logoColor=white&style=for-the-badge" />
 </p>
 
