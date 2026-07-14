@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 Welcome to my GitHub! Here is my data analyst portfolio as well as some of my coding adventures. Pinned below are some of the projects showcase my skills best.
 
 
